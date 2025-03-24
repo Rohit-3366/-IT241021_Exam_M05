@@ -44,7 +44,7 @@ this two websites tell about basic troubleshooting technique of excel
 
 [this is 2nd link](https://www.knime.com/blog/ten-common-issues-when-using-excel-for-data-operations)
 
- What i find ths basic problem is excel got freezed and don't responding
+ What i find ths basic problem is excel got freezed and don't responding.Also most people not clicking the right option and confuse to find out the create option.
 
 
 
