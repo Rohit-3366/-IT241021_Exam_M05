@@ -1,0 +1,11 @@
+open control panel
+
+go to personalization setting
+
+click the icon
+
+in the color option
+
+now click it to display option in it
+
+after that click the choose your mode option
