@@ -40,3 +40,25 @@ Part C advanced setting for user interface these are the website i find good
 
 
 [link of the website](https://help.salesforce.com/s/articleView?id=xcloud.customize_ui_settings.htm&type=5)
+
+
+
+
+
+Part D
+
+
+
+On GitHub, navigate to the main page of the repository.
+
+Under your repository name, click  Issues.
+
+Click New issue.
+
+If your repository uses issue templates, next to the type of issue you'd like to open, click Get started.
+
+In the "Title" field, type a title for your issue.
+
+In the comment body field, type a description of your issue.
+
+When you're finished, click Submit new issue.
