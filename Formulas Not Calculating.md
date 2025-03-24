@@ -26,10 +26,10 @@ Make sure that the cell is not formatted as Text.
 
 
 
- Part B. [this is the link](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-ReadersWriters/xlsx/Troubleshooting.htm) 
+ Part B. [this is the first link byFME](https://docs.safe.com/fme/html/FME-Form-Documentation/FME-ReadersWriters/xlsx/Troubleshooting.htm) 
 
 
-[this is the 2nd link](https://support.microsoft.com/en-us/office/fixes-or-workarounds-for-recent-issues-in-excel-for-windows-49d932ce-0240-49cf-94df-1587d9d97093)
+[this is the 2nd link from microsoft](https://support.microsoft.com/en-us/office/fixes-or-workarounds-for-recent-issues-in-excel-for-windows-49d932ce-0240-49cf-94df-1587d9d97093)
 
 
 this two websites tell about basic troubleshooting technique of excel
